@@ -20,3 +20,20 @@
 
 <img src="llm4.png">
 
+### any LLM interaction options 
+
+<img src="llm5.png">
+
+
+## type of prompts 
+
+<img src="llm6.png">
+
+### COT example 1 
+
+```
+on saturday , customer traffic is usually 40% higher than weekdays
+on weekdays , we schedule 10 cashiers
+think step by step about how many cashiers should be sheduled on saturday to maintain service level or qos.
+
+```
