@@ -54,3 +54,9 @@ now think step by step about whether we need to place an urgetn restocking order
 ### google colab -- python notebook
 
 <img src="role2.png">
+
+### Installing openai module in python 
+
+```
+!pip install openai
+```
