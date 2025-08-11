@@ -46,3 +46,11 @@ our current stock is : 150 loaves of bread , daily sales avg : 60 loaves ,next d
 now think step by step about whether we need to place an urgetn restocking order.
 
 ```
+
+## role understanding in prompting as developer 
+
+<img src="role1.png">
+
+### google colab -- python notebook
+
+<img src="role2.png">
