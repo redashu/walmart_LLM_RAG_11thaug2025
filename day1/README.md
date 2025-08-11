@@ -37,3 +37,12 @@ on weekdays , we schedule 10 cashiers
 think step by step about how many cashiers should be sheduled on saturday to maintain service level or qos.
 
 ```
+
+### example 2 
+
+```
+act as store manager
+our current stock is : 150 loaves of bread , daily sales avg : 60 loaves ,next deliver we are having in 4 days,
+now think step by step about whether we need to place an urgetn restocking order.
+
+```
