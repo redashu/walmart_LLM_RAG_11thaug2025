@@ -20,3 +20,6 @@
 
 <img src="pr3.png">
 
+### Understanding openai LLM with RAG implementation 
+
+<img src="pr4.png">
