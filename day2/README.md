@@ -7,3 +7,7 @@
 ### overall LLM as a stack 
 
 <img src="rev2.png">
+
+## prompt templating option 
+
+<img src="pr1.png">
