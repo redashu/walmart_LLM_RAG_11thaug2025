@@ -13,3 +13,7 @@
 
 <img src="ai.png">
 
+
+## project to be completed points 
+
+<img src="ai2.png">
