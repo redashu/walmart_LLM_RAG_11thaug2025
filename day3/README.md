@@ -8,3 +8,8 @@
 
 <img src="rev2.png">
 
+
+### overview of azure ai services 
+
+<img src="ai.png">
+
